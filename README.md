@@ -127,10 +127,10 @@ sms.open({
 <h2>Events</h2>
 
 <h3>completed</h3>
-This event is fired when the user presses the cancel button on the SMS Dialog
+This event is fired when an SMS message is sent successfully
 
 <h3>cancelled</h3>
-This event is fired when an SMS message is sent successfully
+This event is fired when the user presses the cancel button on the SMS Dialog
 
 <h3>errored</h3>
 This event is fired when an error happens sending a message	

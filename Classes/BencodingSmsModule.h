@@ -6,8 +6,6 @@
  */
 #import "TiModule.h"
 
-@interface BencodingSmsModule : TiModule 
-{
-}
+@interface BencodingSmsModule : TiModule
 
 @end
